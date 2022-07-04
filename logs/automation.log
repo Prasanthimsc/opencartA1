@@ -1,0 +1,32 @@
+15:29:34.780 [main] INFO  testCases.TC_001_AccountRegistration - Registration test passed...
+15:29:37.405 [main] INFO  testCases.TC_002_Login - starting Tescase_002_Login
+15:29:38.242 [main] INFO  testCases.TC_002_Login - Home page displayed
+15:29:38.648 [main] INFO  testCases.TC_002_Login - Clicked on MyAccount
+15:29:39.163 [main] INFO  testCases.TC_002_Login - Clicked on Login
+15:29:39.300 [main] INFO  testCases.TC_002_Login - Email id provided
+15:29:39.383 [main] INFO  testCases.TC_002_Login - Password provided
+15:29:39.837 [main] INFO  testCases.TC_002_Login - Login button clicked
+15:29:39.899 [main] INFO  testCases.TC_002_Login - Login Success 
+15:29:39.900 [main] INFO  testCases.TC_002_Login -  Finished TC_002_Login 
+15:35:32.536 [main] INFO  testCases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration
+15:35:32.547 [main] INFO  testCases.TC_001_AccountRegistration - Launching Application
+15:35:33.611 [main] INFO  testCases.TC_001_AccountRegistration - Clicking on MyInfo --> Registration Link
+15:35:34.467 [main] INFO  testCases.TC_001_AccountRegistration - Providing customer details
+15:35:34.578 [main] INFO  testCases.TC_001_AccountRegistration - Provided customer firstname
+15:35:34.659 [main] INFO  testCases.TC_001_AccountRegistration - provided customer last name
+15:35:34.743 [main] INFO  testCases.TC_001_AccountRegistration - provided customer email
+15:35:34.814 [main] INFO  testCases.TC_001_AccountRegistration - provided customer telephone
+15:35:34.880 [main] INFO  testCases.TC_001_AccountRegistration - provided customer password
+15:35:34.946 [main] INFO  testCases.TC_001_AccountRegistration - provided confirm password
+15:35:37.666 [main] INFO  testCases.TC_001_AccountRegistration - clicked 'continue' button
+15:35:37.712 [main] INFO  testCases.TC_001_AccountRegistration - Validation started.......
+15:35:37.712 [main] INFO  testCases.TC_001_AccountRegistration - Registration test passed...
+15:35:40.169 [main] INFO  testCases.TC_002_Login - starting Tescase_002_Login
+15:35:42.530 [main] INFO  testCases.TC_002_Login - Home page displayed
+15:35:42.775 [main] INFO  testCases.TC_002_Login - Clicked on MyAccount
+15:35:43.192 [main] INFO  testCases.TC_002_Login - Clicked on Login
+15:35:43.311 [main] INFO  testCases.TC_002_Login - Email id provided
+15:35:43.391 [main] INFO  testCases.TC_002_Login - Password provided
+15:35:43.842 [main] INFO  testCases.TC_002_Login - Login button clicked
+15:35:43.902 [main] INFO  testCases.TC_002_Login - Login Success 
+15:35:43.902 [main] INFO  testCases.TC_002_Login -  Finished TC_002_Login 

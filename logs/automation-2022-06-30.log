@@ -1,0 +1,495 @@
+09:19:05.422 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+09:19:05.457 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\saket\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+09:19:07.834 [main] INFO  testCases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration
+09:19:07.835 [main] INFO  testCases.TC_001_AccountRegistration - Launching Application
+09:19:09.567 [main] INFO  testCases.TC_001_AccountRegistration - Clicking on MyInfo --> Registration Link
+09:19:10.218 [main] INFO  testCases.TC_001_AccountRegistration - Providing customer details
+09:19:10.311 [main] INFO  testCases.TC_001_AccountRegistration - Provided customer firstname
+09:19:10.395 [main] INFO  testCases.TC_001_AccountRegistration - provided customer last name
+09:19:10.482 [main] INFO  testCases.TC_001_AccountRegistration - provided customer email
+09:19:10.563 [main] INFO  testCases.TC_001_AccountRegistration - provided customer telephone
+09:19:10.634 [main] INFO  testCases.TC_001_AccountRegistration - provided customer password
+09:19:10.706 [main] INFO  testCases.TC_001_AccountRegistration - provided confirm password
+09:19:13.440 [main] INFO  testCases.TC_001_AccountRegistration - clicked 'continue' button
+09:19:13.475 [main] INFO  testCases.TC_001_AccountRegistration - Validation started.......
+09:19:13.475 [main] INFO  testCases.TC_001_AccountRegistration - Registration test passed...
+09:52:06.862 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+09:52:06.903 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\saket\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+09:52:09.229 [main] INFO  testCases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration
+09:52:09.230 [main] INFO  testCases.TC_001_AccountRegistration - Launching Application
+09:52:10.146 [main] INFO  testCases.TC_001_AccountRegistration - Clicking on MyInfo --> Registration Link
+09:52:11.011 [main] INFO  testCases.TC_001_AccountRegistration - Providing customer details
+09:52:11.124 [main] INFO  testCases.TC_001_AccountRegistration - Provided customer firstname
+09:52:11.209 [main] INFO  testCases.TC_001_AccountRegistration - provided customer last name
+09:52:11.315 [main] INFO  testCases.TC_001_AccountRegistration - provided customer email
+09:52:11.394 [main] INFO  testCases.TC_001_AccountRegistration - provided customer telephone
+09:52:11.465 [main] INFO  testCases.TC_001_AccountRegistration - provided customer password
+09:52:11.532 [main] INFO  testCases.TC_001_AccountRegistration - provided confirm password
+09:52:14.410 [main] INFO  testCases.TC_001_AccountRegistration - clicked 'continue' button
+09:52:14.445 [main] INFO  testCases.TC_001_AccountRegistration - Validation started.......
+09:52:14.445 [main] INFO  testCases.TC_001_AccountRegistration - Registration test passed...
+10:17:39.464 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+10:17:39.510 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\saket\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+10:17:41.960 [main] INFO  testCases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration
+10:17:41.960 [main] INFO  testCases.TC_001_AccountRegistration - Launching Application
+10:17:43.050 [main] INFO  testCases.TC_001_AccountRegistration - Clicking on MyInfo --> Registration Link
+10:17:43.944 [main] INFO  testCases.TC_001_AccountRegistration - Providing customer details
+10:17:44.045 [main] INFO  testCases.TC_001_AccountRegistration - Provided customer firstname
+10:17:44.120 [main] INFO  testCases.TC_001_AccountRegistration - provided customer last name
+10:17:44.210 [main] INFO  testCases.TC_001_AccountRegistration - provided customer email
+10:17:44.284 [main] INFO  testCases.TC_001_AccountRegistration - provided customer telephone
+10:17:44.354 [main] INFO  testCases.TC_001_AccountRegistration - provided customer password
+10:17:44.419 [main] INFO  testCases.TC_001_AccountRegistration - provided confirm password
+10:17:46.988 [main] INFO  testCases.TC_001_AccountRegistration - clicked 'continue' button
+10:17:47.032 [main] INFO  testCases.TC_001_AccountRegistration - Validation started.......
+10:17:47.032 [main] INFO  testCases.TC_001_AccountRegistration - Registration test passed...
+10:18:10.360 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using msedgedriver 103.0.1264.37 (resolved driver for Edge 103)
+10:18:10.390 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Reading https://msedgedriver.azureedge.net/?restype=container&comp=list to seek msedgedriver
+10:18:11.297 [main] INFO  io.github.bonigarcia.wdm.online.Downloader - Downloading https://msedgedriver.azureedge.net/103.0.1264.37/edgedriver_win32.zip
+10:18:11.697 [main] INFO  io.github.bonigarcia.wdm.online.Downloader - Extracting driver from compressed file edgedriver_win32.zip
+10:18:12.014 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.edge.driver as C:\Users\saket\.cache\selenium\msedgedriver\win64\103.0.1264.37\msedgedriver.exe
+10:18:15.986 [main] INFO  testCases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration
+10:18:15.986 [main] INFO  testCases.TC_001_AccountRegistration - Launching Application
+10:18:18.490 [main] INFO  testCases.TC_001_AccountRegistration - Clicking on MyInfo --> Registration Link
+10:18:19.317 [main] INFO  testCases.TC_001_AccountRegistration - Providing customer details
+10:18:19.418 [main] INFO  testCases.TC_001_AccountRegistration - Provided customer firstname
+10:18:19.526 [main] INFO  testCases.TC_001_AccountRegistration - provided customer last name
+10:18:19.627 [main] INFO  testCases.TC_001_AccountRegistration - provided customer email
+10:18:19.709 [main] INFO  testCases.TC_001_AccountRegistration - provided customer telephone
+10:18:19.783 [main] INFO  testCases.TC_001_AccountRegistration - provided customer password
+10:18:19.864 [main] INFO  testCases.TC_001_AccountRegistration - provided confirm password
+10:18:22.814 [main] INFO  testCases.TC_001_AccountRegistration - clicked 'continue' button
+10:18:22.858 [main] INFO  testCases.TC_001_AccountRegistration - Validation started.......
+10:18:22.858 [main] INFO  testCases.TC_001_AccountRegistration - Registration test passed...
+10:23:24.710 [TestNG-tests-2] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using msedgedriver 103.0.1264.37 (resolved driver for Edge 103)
+10:23:24.783 [TestNG-tests-2] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.edge.driver as C:\Users\saket\.cache\selenium\msedgedriver\win64\103.0.1264.37\msedgedriver.exe
+10:23:25.545 [TestNG-tests-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+10:23:25.563 [TestNG-tests-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\saket\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+10:23:27.457 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration
+10:23:27.457 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Launching Application
+10:23:29.438 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration
+10:23:29.439 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Launching Application
+10:23:29.476 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicking on MyInfo --> Registration Link
+10:23:30.559 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Providing customer details
+10:23:30.676 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Provided customer firstname
+10:23:30.762 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - provided customer last name
+10:23:30.865 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - provided customer email
+10:23:30.953 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - provided customer telephone
+10:23:31.051 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - provided customer password
+10:23:31.166 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - provided confirm password
+10:23:32.632 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Clicking on MyInfo --> Registration Link
+10:23:33.397 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Providing customer details
+10:23:33.508 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Provided customer firstname
+10:23:33.608 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - provided customer last name
+10:23:33.715 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - provided customer email
+10:23:33.801 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - provided customer telephone
+10:23:33.883 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - provided customer password
+10:23:33.967 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - provided confirm password
+10:23:34.413 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - clicked 'continue' button
+10:23:34.451 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Validation started.......
+10:23:34.451 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Registration test passed...
+10:23:36.790 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - clicked 'continue' button
+10:23:36.835 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Validation started.......
+10:23:36.835 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Registration test passed...
+11:17:32.039 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using msedgedriver 103.0.1264.37 (resolved driver for Edge 103)
+11:17:32.088 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.edge.driver as C:\Users\saket\.cache\selenium\msedgedriver\win64\103.0.1264.37\msedgedriver.exe
+11:17:37.248 [main] INFO  testCases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration
+11:17:37.249 [main] INFO  testCases.TC_001_AccountRegistration - Launching Application
+11:17:38.516 [main] INFO  testCases.TC_001_AccountRegistration - Clicking on MyInfo --> Registration Link
+11:17:40.014 [main] INFO  testCases.TC_001_AccountRegistration - Providing customer details
+11:17:40.138 [main] INFO  testCases.TC_001_AccountRegistration - Provided customer firstname
+11:17:40.249 [main] INFO  testCases.TC_001_AccountRegistration - provided customer last name
+11:17:40.377 [main] INFO  testCases.TC_001_AccountRegistration - provided customer email
+11:17:40.509 [main] INFO  testCases.TC_001_AccountRegistration - provided customer telephone
+11:17:40.663 [main] INFO  testCases.TC_001_AccountRegistration - provided customer password
+11:17:40.769 [main] INFO  testCases.TC_001_AccountRegistration - provided confirm password
+11:17:43.834 [main] INFO  testCases.TC_001_AccountRegistration - clicked 'continue' button
+11:17:43.899 [main] INFO  testCases.TC_001_AccountRegistration - Validation started.......
+11:17:43.899 [main] INFO  testCases.TC_001_AccountRegistration - Registration test passed...
+17:15:45.076 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+17:15:45.123 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\saket\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+17:15:48.450 [main] INFO  testCases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration
+17:15:48.450 [main] INFO  testCases.TC_001_AccountRegistration - Launching Application
+17:15:49.696 [main] INFO  testCases.TC_001_AccountRegistration - Clicking on MyInfo --> Registration Link
+17:15:50.965 [main] INFO  testCases.TC_001_AccountRegistration - Providing customer details
+17:15:51.111 [main] INFO  testCases.TC_001_AccountRegistration - Provided customer firstname
+17:15:51.227 [main] INFO  testCases.TC_001_AccountRegistration - provided customer last name
+17:15:51.364 [main] INFO  testCases.TC_001_AccountRegistration - provided customer email
+17:15:51.479 [main] INFO  testCases.TC_001_AccountRegistration - provided customer telephone
+17:15:51.577 [main] INFO  testCases.TC_001_AccountRegistration - provided customer password
+17:15:51.666 [main] INFO  testCases.TC_001_AccountRegistration - provided confirm password
+17:15:55.027 [main] INFO  testCases.TC_001_AccountRegistration - clicked 'continue' button
+17:15:55.085 [main] INFO  testCases.TC_001_AccountRegistration - Validation started.......
+17:15:55.085 [main] INFO  testCases.TC_001_AccountRegistration - Registration test passed...
+17:20:56.448 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+17:20:56.504 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\saket\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+17:21:40.101 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+17:21:40.158 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\saket\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+17:32:54.019 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+17:32:54.064 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\saket\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+17:32:56.770 [main] INFO  testCases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration
+17:32:56.770 [main] INFO  testCases.TC_001_AccountRegistration - Launching Application
+17:32:59.018 [main] INFO  testCases.TC_001_AccountRegistration - Clicking on MyInfo --> Registration Link
+17:33:00.249 [main] INFO  testCases.TC_001_AccountRegistration - Providing customer details
+17:33:00.392 [main] INFO  testCases.TC_001_AccountRegistration - Provided customer firstname
+17:33:00.503 [main] INFO  testCases.TC_001_AccountRegistration - provided customer last name
+17:33:00.626 [main] INFO  testCases.TC_001_AccountRegistration - provided customer email
+17:33:00.728 [main] INFO  testCases.TC_001_AccountRegistration - provided customer telephone
+17:33:00.811 [main] INFO  testCases.TC_001_AccountRegistration - provided customer password
+17:33:00.916 [main] INFO  testCases.TC_001_AccountRegistration - provided confirm password
+17:33:04.091 [main] INFO  testCases.TC_001_AccountRegistration - clicked 'continue' button
+17:33:04.145 [main] INFO  testCases.TC_001_AccountRegistration - Validation started.......
+17:33:04.145 [main] INFO  testCases.TC_001_AccountRegistration - Registration test passed...
+17:33:36.749 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+17:33:36.805 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\saket\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+17:33:39.708 [main] INFO  testCases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration
+17:33:39.709 [main] INFO  testCases.TC_001_AccountRegistration - Launching Application
+17:33:40.943 [main] INFO  testCases.TC_001_AccountRegistration - Clicking on MyInfo --> Registration Link
+17:33:42.011 [main] INFO  testCases.TC_001_AccountRegistration - Providing customer details
+17:33:42.147 [main] INFO  testCases.TC_001_AccountRegistration - Provided customer firstname
+17:33:42.279 [main] INFO  testCases.TC_001_AccountRegistration - provided customer last name
+17:33:42.397 [main] INFO  testCases.TC_001_AccountRegistration - provided customer email
+17:33:42.501 [main] INFO  testCases.TC_001_AccountRegistration - provided customer telephone
+17:33:42.602 [main] INFO  testCases.TC_001_AccountRegistration - provided customer password
+17:33:42.705 [main] INFO  testCases.TC_001_AccountRegistration - provided confirm password
+17:33:46.285 [main] INFO  testCases.TC_001_AccountRegistration - clicked 'continue' button
+17:33:46.336 [main] INFO  testCases.TC_001_AccountRegistration - Validation started.......
+17:33:46.337 [main] INFO  testCases.TC_001_AccountRegistration - Registration test passed...
+08:44:45.588 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+08:44:45.650 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\saket\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+08:44:49.261 [main] INFO  testCases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration
+08:44:49.261 [main] INFO  testCases.TC_001_AccountRegistration - Launching Application
+08:44:50.785 [main] INFO  testCases.TC_001_AccountRegistration - Clicking on MyInfo --> Registration Link
+08:44:51.968 [main] INFO  testCases.TC_001_AccountRegistration - Providing customer details
+08:44:52.108 [main] INFO  testCases.TC_001_AccountRegistration - Provided customer firstname
+08:44:52.213 [main] INFO  testCases.TC_001_AccountRegistration - provided customer last name
+08:44:52.321 [main] INFO  testCases.TC_001_AccountRegistration - provided customer email
+08:44:52.419 [main] INFO  testCases.TC_001_AccountRegistration - provided customer telephone
+08:44:52.507 [main] INFO  testCases.TC_001_AccountRegistration - provided customer password
+08:44:52.620 [main] INFO  testCases.TC_001_AccountRegistration - provided confirm password
+08:44:56.053 [main] INFO  testCases.TC_001_AccountRegistration - clicked 'continue' button
+08:44:56.098 [main] INFO  testCases.TC_001_AccountRegistration - Validation started.......
+08:44:56.099 [main] INFO  testCases.TC_001_AccountRegistration - Registration test passed...
+09:01:44.976 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+09:01:45.022 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\saket\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+09:01:47.950 [main] INFO  testCases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration
+09:01:47.951 [main] INFO  testCases.TC_001_AccountRegistration - Launching Application
+09:01:49.120 [main] INFO  testCases.TC_001_AccountRegistration - Clicking on MyInfo --> Registration Link
+09:01:50.320 [main] INFO  testCases.TC_001_AccountRegistration - Providing customer details
+09:01:50.452 [main] INFO  testCases.TC_001_AccountRegistration - Provided customer firstname
+09:01:50.561 [main] INFO  testCases.TC_001_AccountRegistration - provided customer last name
+09:01:50.686 [main] INFO  testCases.TC_001_AccountRegistration - provided customer email
+09:01:50.786 [main] INFO  testCases.TC_001_AccountRegistration - provided customer telephone
+09:01:50.865 [main] INFO  testCases.TC_001_AccountRegistration - provided customer password
+09:01:50.940 [main] INFO  testCases.TC_001_AccountRegistration - provided confirm password
+09:01:54.310 [main] INFO  testCases.TC_001_AccountRegistration - clicked 'continue' button
+09:01:54.361 [main] INFO  testCases.TC_001_AccountRegistration - Validation started.......
+09:01:54.361 [main] INFO  testCases.TC_001_AccountRegistration - Registration test passed...
+09:53:21.303 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+09:53:21.337 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\saket\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+09:53:23.907 [main] INFO  testCases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration
+09:53:23.908 [main] INFO  testCases.TC_001_AccountRegistration - Launching Application
+09:53:25.139 [main] INFO  testCases.TC_001_AccountRegistration - Clicking on MyInfo --> Registration Link
+09:53:26.431 [main] INFO  testCases.TC_001_AccountRegistration - Providing customer details
+09:53:26.578 [main] INFO  testCases.TC_001_AccountRegistration - Provided customer firstname
+09:53:26.697 [main] INFO  testCases.TC_001_AccountRegistration - provided customer last name
+09:53:26.834 [main] INFO  testCases.TC_001_AccountRegistration - provided customer email
+09:53:26.943 [main] INFO  testCases.TC_001_AccountRegistration - provided customer telephone
+09:53:27.064 [main] INFO  testCases.TC_001_AccountRegistration - provided customer password
+09:53:27.158 [main] INFO  testCases.TC_001_AccountRegistration - provided confirm password
+09:53:30.347 [main] INFO  testCases.TC_001_AccountRegistration - clicked 'continue' button
+09:53:30.391 [main] INFO  testCases.TC_001_AccountRegistration - Validation started.......
+09:53:30.391 [main] INFO  testCases.TC_001_AccountRegistration - Registration test passed...
+09:53:30.795 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+09:53:30.821 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\saket\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+09:53:32.704 [main] INFO  testCases.TC_002_Login - starting Tescase_002_Login
+09:53:33.744 [main] INFO  testCases.TC_002_Login - Home page displayed
+09:53:34.349 [main] INFO  testCases.TC_002_Login - Clicked on MyAccount
+09:53:35.074 [main] INFO  testCases.TC_002_Login - Clicked on Login
+09:53:35.218 [main] INFO  testCases.TC_002_Login - Email id provided
+09:53:35.315 [main] INFO  testCases.TC_002_Login - Password provided
+09:53:36.056 [main] INFO  testCases.TC_002_Login - Login button clicked
+09:53:36.181 [main] INFO  testCases.TC_002_Login - Login Success 
+09:53:36.181 [main] INFO  testCases.TC_002_Login -  Finished TC_002_Login 
+09:54:37.444 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+09:54:37.496 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\saket\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+09:54:40.551 [main] INFO  testCases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration
+09:54:40.551 [main] INFO  testCases.TC_001_AccountRegistration - Launching Application
+09:54:41.890 [main] INFO  testCases.TC_001_AccountRegistration - Clicking on MyInfo --> Registration Link
+09:54:43.175 [main] INFO  testCases.TC_001_AccountRegistration - Providing customer details
+09:54:43.327 [main] INFO  testCases.TC_001_AccountRegistration - Provided customer firstname
+09:54:43.469 [main] INFO  testCases.TC_001_AccountRegistration - provided customer last name
+09:54:43.577 [main] INFO  testCases.TC_001_AccountRegistration - provided customer email
+09:54:43.684 [main] INFO  testCases.TC_001_AccountRegistration - provided customer telephone
+09:54:43.768 [main] INFO  testCases.TC_001_AccountRegistration - provided customer password
+09:54:43.853 [main] INFO  testCases.TC_001_AccountRegistration - provided confirm password
+09:54:47.173 [main] INFO  testCases.TC_001_AccountRegistration - clicked 'continue' button
+09:54:47.218 [main] INFO  testCases.TC_001_AccountRegistration - Validation started.......
+09:54:47.218 [main] INFO  testCases.TC_001_AccountRegistration - Registration test passed...
+09:54:47.600 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+09:54:47.618 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\saket\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+09:54:49.567 [main] INFO  testCases.TC_002_Login - starting Tescase_002_Login
+09:54:50.865 [main] INFO  testCases.TC_002_Login - Home page displayed
+09:54:51.634 [main] INFO  testCases.TC_002_Login - Clicked on MyAccount
+09:54:52.217 [main] INFO  testCases.TC_002_Login - Clicked on Login
+09:54:52.347 [main] INFO  testCases.TC_002_Login - Email id provided
+09:54:52.445 [main] INFO  testCases.TC_002_Login - Password provided
+09:54:53.033 [main] INFO  testCases.TC_002_Login - Login button clicked
+09:55:03.074 [main] ERROR testCases.TC_002_Login - Login Failed 
+17:57:08.008 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+17:57:08.053 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\saket\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+17:57:12.502 [main] INFO  testCases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration
+17:57:12.502 [main] INFO  testCases.TC_001_AccountRegistration - Launching Application
+17:57:13.851 [main] INFO  testCases.TC_001_AccountRegistration - Clicking on MyInfo --> Registration Link
+17:57:15.084 [main] INFO  testCases.TC_001_AccountRegistration - Providing customer details
+17:57:15.213 [main] INFO  testCases.TC_001_AccountRegistration - Provided customer firstname
+17:57:15.328 [main] INFO  testCases.TC_001_AccountRegistration - provided customer last name
+17:57:15.483 [main] INFO  testCases.TC_001_AccountRegistration - provided customer email
+17:57:15.596 [main] INFO  testCases.TC_001_AccountRegistration - provided customer telephone
+17:57:15.689 [main] INFO  testCases.TC_001_AccountRegistration - provided customer password
+17:57:15.775 [main] INFO  testCases.TC_001_AccountRegistration - provided confirm password
+17:57:19.126 [main] INFO  testCases.TC_001_AccountRegistration - clicked 'continue' button
+17:57:19.172 [main] INFO  testCases.TC_001_AccountRegistration - Validation started.......
+17:57:19.172 [main] INFO  testCases.TC_001_AccountRegistration - Registration test passed...
+17:57:19.643 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+17:57:19.669 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\saket\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+17:57:21.084 [main] INFO  testCases.TC_002_Login - starting Tescase_002_Login
+17:57:22.021 [main] INFO  testCases.TC_002_Login - Home page displayed
+17:57:22.729 [main] INFO  testCases.TC_002_Login - Clicked on MyAccount
+17:57:23.294 [main] INFO  testCases.TC_002_Login - Clicked on Login
+17:57:23.430 [main] INFO  testCases.TC_002_Login - Email id provided
+17:57:23.533 [main] INFO  testCases.TC_002_Login - Password provided
+17:57:24.343 [main] INFO  testCases.TC_002_Login - Login button clicked
+17:57:24.436 [main] INFO  testCases.TC_002_Login - Login Success 
+17:57:24.436 [main] INFO  testCases.TC_002_Login -  Finished TC_002_Login 
+17:57:24.864 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+17:57:24.887 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\saket\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+17:58:40.973 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+17:58:41.017 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\saket\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+18:01:51.967 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+18:01:52.017 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\saket\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+18:22:46.999 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+18:22:47.062 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\saket\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+18:22:50.342 [main] INFO  testCases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration
+18:22:50.342 [main] INFO  testCases.TC_001_AccountRegistration - Launching Application
+18:22:51.650 [main] INFO  testCases.TC_001_AccountRegistration - Clicking on MyInfo --> Registration Link
+18:22:52.847 [main] INFO  testCases.TC_001_AccountRegistration - Providing customer details
+18:22:52.998 [main] INFO  testCases.TC_001_AccountRegistration - Provided customer firstname
+18:22:53.114 [main] INFO  testCases.TC_001_AccountRegistration - provided customer last name
+18:22:53.241 [main] INFO  testCases.TC_001_AccountRegistration - provided customer email
+18:22:53.354 [main] INFO  testCases.TC_001_AccountRegistration - provided customer telephone
+18:22:53.450 [main] INFO  testCases.TC_001_AccountRegistration - provided customer password
+18:22:53.561 [main] INFO  testCases.TC_001_AccountRegistration - provided confirm password
+18:22:57.106 [main] INFO  testCases.TC_001_AccountRegistration - clicked 'continue' button
+18:22:57.156 [main] INFO  testCases.TC_001_AccountRegistration - Validation started.......
+18:22:57.156 [main] INFO  testCases.TC_001_AccountRegistration - Registration test passed...
+18:22:57.547 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+18:22:57.571 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\saket\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+18:22:59.088 [main] INFO  testCases.TC_002_Login - starting Tescase_002_Login
+18:23:00.157 [main] INFO  testCases.TC_002_Login - Home page displayed
+18:23:00.668 [main] INFO  testCases.TC_002_Login - Clicked on MyAccount
+18:23:01.471 [main] INFO  testCases.TC_002_Login - Clicked on Login
+18:23:01.616 [main] INFO  testCases.TC_002_Login - Email id provided
+18:23:01.739 [main] INFO  testCases.TC_002_Login - Password provided
+18:23:02.359 [main] INFO  testCases.TC_002_Login - Login button clicked
+18:23:02.443 [main] INFO  testCases.TC_002_Login - Login Success 
+18:23:02.443 [main] INFO  testCases.TC_002_Login -  Finished TC_002_Login 
+18:23:02.858 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+18:23:02.888 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\saket\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+18:25:15.918 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+18:25:15.983 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\saket\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+20:07:12.815 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+20:07:12.866 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\saket\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+20:10:37.359 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+20:10:37.422 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\saket\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+20:10:44.024 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+20:10:45.517 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+20:10:46.256 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+20:10:47.524 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+20:10:47.797 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+20:10:48.017 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+20:10:48.762 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+20:10:58.873 [main] ERROR testCases.TC_003_LoginDDT - Login Failed 
+20:10:58.923 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+20:10:59.537 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+20:10:59.630 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+20:11:00.245 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+20:11:00.406 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+20:11:00.558 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+20:11:01.253 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+20:11:11.339 [main] ERROR testCases.TC_003_LoginDDT - Login Failed 
+20:11:11.339 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+20:11:11.348 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+20:11:12.036 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+20:11:12.160 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+20:11:14.198 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+20:11:14.341 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+20:11:14.432 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+20:11:15.119 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+20:11:25.157 [main] ERROR testCases.TC_003_LoginDDT - Login Failed 
+20:11:25.157 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+20:11:25.160 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+20:11:25.959 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+20:11:26.078 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+20:11:26.869 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+20:11:27.030 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+20:11:27.161 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+20:11:27.800 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+20:11:37.852 [main] ERROR testCases.TC_003_LoginDDT - Login Failed 
+20:11:37.853 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+12:30:32.350 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 103.0.5060.53 (resolved driver for Chrome 103)
+12:30:32.400 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+12:30:32.906 [main] INFO  io.github.bonigarcia.wdm.online.Downloader - Downloading https://chromedriver.storage.googleapis.com/103.0.5060.53/chromedriver_win32.zip
+12:30:33.365 [main] INFO  io.github.bonigarcia.wdm.online.Downloader - Extracting driver from compressed file chromedriver_win32.zip
+12:30:33.610 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\saket\.cache\selenium\chromedriver\win32\103.0.5060.53\chromedriver.exe
+12:30:38.482 [main] INFO  testCases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration
+12:30:38.482 [main] INFO  testCases.TC_001_AccountRegistration - Launching Application
+12:30:39.726 [main] INFO  testCases.TC_001_AccountRegistration - Clicking on MyInfo --> Registration Link
+12:30:40.904 [main] INFO  testCases.TC_001_AccountRegistration - Providing customer details
+12:30:41.055 [main] INFO  testCases.TC_001_AccountRegistration - Provided customer firstname
+12:30:41.173 [main] INFO  testCases.TC_001_AccountRegistration - provided customer last name
+12:30:41.319 [main] INFO  testCases.TC_001_AccountRegistration - provided customer email
+12:30:41.425 [main] INFO  testCases.TC_001_AccountRegistration - provided customer telephone
+12:30:41.510 [main] INFO  testCases.TC_001_AccountRegistration - provided customer password
+12:30:41.593 [main] INFO  testCases.TC_001_AccountRegistration - provided confirm password
+12:30:44.810 [main] INFO  testCases.TC_001_AccountRegistration - clicked 'continue' button
+12:30:44.858 [main] INFO  testCases.TC_001_AccountRegistration - Validation started.......
+12:30:44.858 [main] INFO  testCases.TC_001_AccountRegistration - Registration test passed...
+12:30:45.303 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 103.0.5060.53 (resolved driver for Chrome 103)
+12:30:45.324 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\saket\.cache\selenium\chromedriver\win32\103.0.5060.53\chromedriver.exe
+12:30:46.748 [main] INFO  testCases.TC_002_Login - starting Tescase_002_Login
+12:30:47.660 [main] INFO  testCases.TC_002_Login - Home page displayed
+12:30:48.329 [main] INFO  testCases.TC_002_Login - Clicked on MyAccount
+12:30:48.813 [main] INFO  testCases.TC_002_Login - Clicked on Login
+12:30:49.000 [main] INFO  testCases.TC_002_Login - Email id provided
+12:30:49.114 [main] INFO  testCases.TC_002_Login - Password provided
+12:30:49.599 [main] INFO  testCases.TC_002_Login - Login button clicked
+12:30:49.689 [main] INFO  testCases.TC_002_Login - Login Success 
+12:30:49.689 [main] INFO  testCases.TC_002_Login -  Finished TC_002_Login 
+12:31:17.003 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 103.0.5060.53 (resolved driver for Chrome 103)
+12:31:17.058 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\saket\.cache\selenium\chromedriver\win32\103.0.5060.53\chromedriver.exe
+12:31:21.443 [main] INFO  testCases.TC_002_Login - starting Tescase_002_Login
+12:31:22.487 [main] INFO  testCases.TC_002_Login - Home page displayed
+12:31:23.088 [main] INFO  testCases.TC_002_Login - Clicked on MyAccount
+12:31:23.670 [main] INFO  testCases.TC_002_Login - Clicked on Login
+12:31:23.843 [main] INFO  testCases.TC_002_Login - Email id provided
+12:31:23.961 [main] INFO  testCases.TC_002_Login - Password provided
+12:31:24.537 [main] INFO  testCases.TC_002_Login - Login button clicked
+12:31:24.638 [main] INFO  testCases.TC_002_Login - Login Success 
+12:31:24.642 [main] INFO  testCases.TC_002_Login -  Finished TC_002_Login 
+12:31:55.329 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 103.0.5060.53 (resolved driver for Chrome 103)
+12:31:55.374 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\saket\.cache\selenium\chromedriver\win32\103.0.5060.53\chromedriver.exe
+12:31:58.514 [main] INFO  testCases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration
+12:31:58.514 [main] INFO  testCases.TC_001_AccountRegistration - Launching Application
+12:31:59.486 [main] INFO  testCases.TC_001_AccountRegistration - Clicking on MyInfo --> Registration Link
+12:32:00.725 [main] INFO  testCases.TC_001_AccountRegistration - Providing customer details
+12:32:00.869 [main] INFO  testCases.TC_001_AccountRegistration - Provided customer firstname
+12:32:00.984 [main] INFO  testCases.TC_001_AccountRegistration - provided customer last name
+12:32:01.113 [main] INFO  testCases.TC_001_AccountRegistration - provided customer email
+12:32:01.232 [main] INFO  testCases.TC_001_AccountRegistration - provided customer telephone
+12:32:01.339 [main] INFO  testCases.TC_001_AccountRegistration - provided customer password
+12:32:01.440 [main] INFO  testCases.TC_001_AccountRegistration - provided confirm password
+12:32:04.703 [main] INFO  testCases.TC_001_AccountRegistration - clicked 'continue' button
+12:32:04.752 [main] INFO  testCases.TC_001_AccountRegistration - Validation started.......
+12:32:04.752 [main] INFO  testCases.TC_001_AccountRegistration - Registration test passed...
+12:48:56.288 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 103.0.5060.53 (resolved driver for Chrome 103)
+12:48:56.351 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\saket\.cache\selenium\chromedriver\win32\103.0.5060.53\chromedriver.exe
+12:49:02.070 [main] INFO  testCases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration
+12:49:02.070 [main] INFO  testCases.TC_001_AccountRegistration - Launching Application
+12:49:03.973 [main] INFO  testCases.TC_001_AccountRegistration - Clicking on MyInfo --> Registration Link
+12:49:04.924 [main] INFO  testCases.TC_001_AccountRegistration - Providing customer details
+12:49:05.047 [main] INFO  testCases.TC_001_AccountRegistration - Provided customer firstname
+12:49:05.147 [main] INFO  testCases.TC_001_AccountRegistration - provided customer last name
+12:49:05.265 [main] INFO  testCases.TC_001_AccountRegistration - provided customer email
+12:49:05.362 [main] INFO  testCases.TC_001_AccountRegistration - provided customer telephone
+12:49:05.449 [main] INFO  testCases.TC_001_AccountRegistration - provided customer password
+12:49:05.574 [main] INFO  testCases.TC_001_AccountRegistration - provided confirm password
+12:49:12.268 [main] INFO  testCases.TC_001_AccountRegistration - clicked 'continue' button
+12:49:12.350 [main] INFO  testCases.TC_001_AccountRegistration - Validation started.......
+12:49:12.744 [main] ERROR testCases.TC_001_AccountRegistration - Registration test failed
+12:49:13.189 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 103.0.5060.53 (resolved driver for Chrome 103)
+12:49:13.214 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\saket\.cache\selenium\chromedriver\win32\103.0.5060.53\chromedriver.exe
+12:49:14.955 [main] INFO  testCases.TC_002_Login - starting Tescase_002_Login
+12:49:15.869 [main] INFO  testCases.TC_002_Login - Home page displayed
+12:49:16.487 [main] INFO  testCases.TC_002_Login - Clicked on MyAccount
+12:49:16.996 [main] INFO  testCases.TC_002_Login - Clicked on Login
+12:49:17.160 [main] INFO  testCases.TC_002_Login - Email id provided
+12:49:17.270 [main] INFO  testCases.TC_002_Login - Password provided
+12:49:17.813 [main] INFO  testCases.TC_002_Login - Login button clicked
+12:49:17.881 [main] INFO  testCases.TC_002_Login - Login Success 
+12:49:17.881 [main] INFO  testCases.TC_002_Login -  Finished TC_002_Login 
+13:19:46.974 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 103.0.5060.53 (resolved driver for Chrome 103)
+13:19:47.042 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\saket\.cache\selenium\chromedriver\win32\103.0.5060.53\chromedriver.exe
+13:19:50.411 [main] INFO  testCases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration
+13:19:50.411 [main] INFO  testCases.TC_001_AccountRegistration - Launching Application
+13:19:51.716 [main] INFO  testCases.TC_001_AccountRegistration - Clicking on MyInfo --> Registration Link
+13:19:53.013 [main] INFO  testCases.TC_001_AccountRegistration - Providing customer details
+13:19:53.138 [main] INFO  testCases.TC_001_AccountRegistration - Provided customer firstname
+13:19:53.234 [main] INFO  testCases.TC_001_AccountRegistration - provided customer last name
+13:19:53.343 [main] INFO  testCases.TC_001_AccountRegistration - provided customer email
+13:19:53.436 [main] INFO  testCases.TC_001_AccountRegistration - provided customer telephone
+13:19:53.528 [main] INFO  testCases.TC_001_AccountRegistration - provided customer password
+13:19:53.602 [main] INFO  testCases.TC_001_AccountRegistration - provided confirm password
+13:19:56.957 [main] INFO  testCases.TC_001_AccountRegistration - clicked 'continue' button
+13:19:57.006 [main] INFO  testCases.TC_001_AccountRegistration - Validation started.......
+13:19:57.006 [main] INFO  testCases.TC_001_AccountRegistration - Registration test passed...
+14:47:35.852 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 103.0.5060.53 (resolved driver for Chrome 103)
+14:47:35.890 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\saket\.cache\selenium\chromedriver\win32\103.0.5060.53\chromedriver.exe
+14:47:38.307 [main] INFO  testCases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration
+14:47:38.307 [main] INFO  testCases.TC_001_AccountRegistration - Launching Application
+14:47:40.024 [main] INFO  testCases.TC_001_AccountRegistration - Clicking on MyInfo --> Registration Link
+14:47:40.785 [main] INFO  testCases.TC_001_AccountRegistration - Providing customer details
+14:47:40.901 [main] INFO  testCases.TC_001_AccountRegistration - Provided customer firstname
+14:47:40.986 [main] INFO  testCases.TC_001_AccountRegistration - provided customer last name
+14:47:41.095 [main] INFO  testCases.TC_001_AccountRegistration - provided customer email
+14:47:41.178 [main] INFO  testCases.TC_001_AccountRegistration - provided customer telephone
+14:47:41.248 [main] INFO  testCases.TC_001_AccountRegistration - provided customer password
+14:47:41.317 [main] INFO  testCases.TC_001_AccountRegistration - provided confirm password
+14:47:44.515 [main] INFO  testCases.TC_001_AccountRegistration - clicked 'continue' button
+14:47:44.548 [main] INFO  testCases.TC_001_AccountRegistration - Validation started.......
+14:47:44.548 [main] INFO  testCases.TC_001_AccountRegistration - Registration test passed...
+14:47:44.828 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 103.0.5060.53 (resolved driver for Chrome 103)
+14:47:44.843 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\saket\.cache\selenium\chromedriver\win32\103.0.5060.53\chromedriver.exe
+14:47:46.268 [main] INFO  testCases.TC_002_Login - starting Tescase_002_Login
+14:47:47.709 [main] INFO  testCases.TC_002_Login - Home page displayed
+14:47:48.165 [main] INFO  testCases.TC_002_Login - Clicked on MyAccount
+14:47:48.623 [main] INFO  testCases.TC_002_Login - Clicked on Login
+14:47:48.750 [main] INFO  testCases.TC_002_Login - Email id provided
+14:47:48.837 [main] INFO  testCases.TC_002_Login - Password provided
+14:47:49.304 [main] INFO  testCases.TC_002_Login - Login button clicked
+14:47:49.365 [main] INFO  testCases.TC_002_Login - Login Success 
+14:47:49.365 [main] INFO  testCases.TC_002_Login -  Finished TC_002_Login 
+15:04:38.565 [main] INFO  testCases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration
+15:04:38.571 [main] INFO  testCases.TC_001_AccountRegistration - Launching Application
+15:04:39.553 [main] INFO  testCases.TC_001_AccountRegistration - Clicking on MyInfo --> Registration Link
+15:04:40.377 [main] INFO  testCases.TC_001_AccountRegistration - Providing customer details
+15:04:40.493 [main] INFO  testCases.TC_001_AccountRegistration - Provided customer firstname
+15:04:40.576 [main] INFO  testCases.TC_001_AccountRegistration - provided customer last name
+15:04:40.665 [main] INFO  testCases.TC_001_AccountRegistration - provided customer email
+15:04:40.735 [main] INFO  testCases.TC_001_AccountRegistration - provided customer telephone
+15:04:40.796 [main] INFO  testCases.TC_001_AccountRegistration - provided customer password
+15:04:40.864 [main] INFO  testCases.TC_001_AccountRegistration - provided confirm password
+15:04:43.390 [main] INFO  testCases.TC_001_AccountRegistration - clicked 'continue' button
+15:04:43.431 [main] INFO  testCases.TC_001_AccountRegistration - Validation started.......
+15:04:43.431 [main] INFO  testCases.TC_001_AccountRegistration - Registration test passed...
+15:04:45.230 [main] INFO  testCases.TC_002_Login - starting Tescase_002_Login
+15:04:45.989 [main] INFO  testCases.TC_002_Login - Home page displayed
+15:04:46.411 [main] INFO  testCases.TC_002_Login - Clicked on MyAccount
+15:04:46.871 [main] INFO  testCases.TC_002_Login - Clicked on Login
+15:04:46.991 [main] INFO  testCases.TC_002_Login - Email id provided
+15:04:47.076 [main] INFO  testCases.TC_002_Login - Password provided
+15:04:47.494 [main] INFO  testCases.TC_002_Login - Login button clicked
+15:04:47.554 [main] INFO  testCases.TC_002_Login - Login Success 
+15:04:47.555 [main] INFO  testCases.TC_002_Login -  Finished TC_002_Login 
+15:29:29.408 [main] INFO  testCases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration
+15:29:29.422 [main] INFO  testCases.TC_001_AccountRegistration - Launching Application
+15:29:30.446 [main] INFO  testCases.TC_001_AccountRegistration - Clicking on MyInfo --> Registration Link
+15:29:31.362 [main] INFO  testCases.TC_001_AccountRegistration - Providing customer details
+15:29:31.476 [main] INFO  testCases.TC_001_AccountRegistration - Provided customer firstname
+15:29:31.560 [main] INFO  testCases.TC_001_AccountRegistration - provided customer last name
+15:29:31.657 [main] INFO  testCases.TC_001_AccountRegistration - provided customer email
+15:29:31.737 [main] INFO  testCases.TC_001_AccountRegistration - provided customer telephone
+15:29:31.803 [main] INFO  testCases.TC_001_AccountRegistration - provided customer password
+15:29:31.870 [main] INFO  testCases.TC_001_AccountRegistration - provided confirm password
+15:29:34.732 [main] INFO  testCases.TC_001_AccountRegistration - clicked 'continue' button
+15:29:34.780 [main] INFO  testCases.TC_001_AccountRegistration - Validation started.......
